@@ -7,7 +7,7 @@ import Skill from './components/skills/Skill';
 import Project from './components/project/Project';
 import Qualification from './components/qualification/Qualification';
 import Contact from './components/contact/Contact';
-import Footer from './components/footer/footer';
+import Footer from './components/footers/Footer.jsx';
 import ScrollUp from './components/Scrollup/ScrollUp';
 
 const App = () => {
